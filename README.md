@@ -1,0 +1,1 @@
+# mkdocs_all_docs_registry
